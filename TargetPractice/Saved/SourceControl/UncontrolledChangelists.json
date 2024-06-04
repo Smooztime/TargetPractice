@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/TargetPractice/TargetPractice/Content/FirstPerson/Blueprints/BP_RandomTargetsSpawn.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/TargetPractice/TargetPractice/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
 				"D:/BVC/Term_2/Game1202/TargetPractice/TargetPractice/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/BVC/Term_2/Game1202/TargetPractice/TargetPractice/Content/FirstPerson/Maps/TargetPractice.umap",
 				"D:/BVC/Term_2/Game1202/TargetPractice/TargetPractice/Content/_GENERATED/chroz/Box_47948B34.uasset",
